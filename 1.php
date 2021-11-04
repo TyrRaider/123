@@ -1,7 +1,1 @@
-<?php
-
-$last_line = system('cat /etc/hostname', $retval);
-
-echo $retval;
-
-?>
+<?PHP echo "Hello THM"; ?>
